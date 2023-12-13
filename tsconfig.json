@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"incremental": true,
+		"moduleResolution": "node",
+		"module": "commonjs",
+		"target": "es2020",
+        "rootDir": "src",
+        "outDir": "out",
+		"forceConsistentCasingInFileNames": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"declaration": true,
+		"sourceMap": true,
+		"composite": true,
+		"strict": true
+	}
+}
